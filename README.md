@@ -1,6 +1,6 @@
 # Group Video Chat Web App
 ![](https://miro.medium.com/max/1400/1*XEu9XT-U1RKmuTtz8k3qMQ.png)
-This is a group video chat web app that uses [Agora.io](https://www.agora.io) to build a simple group video chat web app, very similar to Google Hangouts, Skype or whichever other video chat platform you prefer. 
+This is a starter project for building a group video chat web app that uses the [Agora](https://www.agora.io) Web SDK to build a simple group video chat web app, similar to Google Hangouts, Skype or whichever other video chat platform you prefer. 
 
 ## Pre Requisites
 - [A simple web server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server) (I like to use [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer))
