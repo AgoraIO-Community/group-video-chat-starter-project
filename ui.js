@@ -81,7 +81,7 @@ function toggleBtn(btn){
 
 function toggleScreenShareBtn() {
   $('#screen-share-btn').toggleClass('btn-danger');
-  $('#screen-share-icon').toggleClass('fa-share-square').toggleClass('fa-times-circle');
+  $('#screen-share-icon').toggleClass('fa-desktop').toggleClass('fa-times-circle');
 }
 
 function toggleVisibility(elementID, visible) {
