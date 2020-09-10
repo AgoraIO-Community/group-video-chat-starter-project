@@ -121,12 +121,12 @@ function addRemoteStreamMiniView(remoteStream){
   var containerId = '#' + streamId + '_container';
   $(containerId).dblclick(function() {
     // play selected container as full screen - swap out current full screen stream
-    remoteStreams[mainStreamId].stop(); // stop the main video stream playback
-    addRemoteStreamMiniView(remoteStreams[mainStreamId]); // send the main video stream to a container
-    $(containerId).empty().remove(); // remove the stream's miniView container
-    remoteStreams[streamId].stop() // stop the container's video stream playback
-    remoteStreams[streamId].play('full-screen-video'); // play the remote stream as the full screen video
-    mainStreamId = streamId; // set the container stream id as the new main stream id
+    // stop the main video stream playback
+    // send the main video stream to a container
+    // remove the stream's miniView container
+    // stop the container's video stream playback
+    // play the remote stream as the full screen video
+    // set the container stream id as the new main stream id
   });
 }
 
