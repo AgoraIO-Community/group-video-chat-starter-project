@@ -1,4 +1,13 @@
-# Group Video Chat Web App
+# [ARCHIVED] Group Video Chat Web App
+
+**⚠️ This project is no longer maintained and has been archived.**  
+Please note that this repository is now in a read-only state and will not receive any further updates or support.
+
+We recommend using to the latest version of the **Agora Web SDK**: [Learn more](https://www.agora.io/en/products/video-call/) 
+
+For documentation and support, please visit the [Agora Documentation](https://docs.agora.io/en/).
+
+--- 
 ![](https://miro.medium.com/max/1400/1*XEu9XT-U1RKmuTtz8k3qMQ.png)
 This is a starter project for building a group video chat web app that uses the [Agora](https://www.agora.io) Web SDK to build a simple group video chat web app, similar to Google Hangouts, Skype or whichever other video chat platform you prefer. 
 
